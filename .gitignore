@@ -1,2 +1,7 @@
 venv
 __pycache__
+mongodb_use_1.py
+mongodb_use_2.py
+mongodb_use_3.py
+mymongodb_summary.txt
+scrap_to_db_use.py
