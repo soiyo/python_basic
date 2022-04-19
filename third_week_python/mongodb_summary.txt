@@ -2,6 +2,8 @@ from pymongo import MongoClient
 client = MongoClient('클러스터 url')
 db = client.people
 
+#이 내용은 get, post 함수 만들때 app.py에서 쓰는것임. (변수명, 저장소명 변경해주는거 주의!)
+
 # 저장 - 예시
 doc = {'name':'bobby','age':21}
 db.users.insert_one(doc)
