@@ -1,21 +1,4 @@
 # python_basic
 
-## This is python basic practice
-
----
-
-##### python_basic
-
--   practice_1
--   practice_2
--   practice_3
--   practice_4
--   practice_5
--   practice_6
--   practice_7
--   practice_8
--   practice_9
--   practice_10
--   practice_11
--   main_func
--   main_practice
+기초가 탄탄해야 한다고 들었기에
+기초 파이썬 문법을 공부한 흔적이 남아있는 리포지토리이다.
